@@ -74,9 +74,6 @@ const Navbar = () => {
       <div className="navb">
         <nav className="navbar navbar-expand-lg navbar-dark  bg-dark text-white">
           <div className="container">
-            <a className="navbar-brand" href="/">
-              Navbar
-            </a>
             <button
               className="navbar-toggler"
               type="button"
